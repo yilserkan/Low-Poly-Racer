@@ -5,6 +5,9 @@ This game is a racing game. Currently the player can only play alone. There is a
 
 This game was created by following a Youtube series. Most of the scripts has been changed later on. I coded my own wheel collider and car controller scripts based on my researches on the internet.
 
+## Models
+The models where created by me following the same Youtube series.
+
 ## Planned Features
 - Better AI
 - Add Power ups

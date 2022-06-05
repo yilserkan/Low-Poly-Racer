@@ -1,9 +1,9 @@
 # Low-Poly-Racer
 
 ## About the game
-This game is a racing game. Currently the player can only play alone. The player can gather boost whilst drifting. I started to develop an AI so that the player can race against them. The AI hasn't reached it's peak yet and needs a lot of optimizing.  
+This game is a racing game. Currently the player can only play alone. There is a drifting mechanic which helps the player to gather boost whilst drifting. I started to develop an AI so that the player can race against them but the AI hasn't reached it's peak yet and needs a lot of optimizing.  
 
-I started to create this game following a Youtube series but then changed most of the scripts to change the car behaviour. I coded my own wheel collider and car controller scripts based on my researches.
+This game was created by following a Youtube series. Most of the scripts has been changed later on. I coded my own wheel collider and car controller scripts based on my researches on the internet.
 
 ## Planned Features
 - Better AI
